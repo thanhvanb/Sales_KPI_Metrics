@@ -6,3 +6,8 @@ Using charts are: donut, pie, bar, column and line charts. Using colors are more
 Datasheet are connected with built-in hyperlinks help viewers( stakeholders) easily to connect and understand the data outcome as well as the connection slicers. Data can be easily indicated the difference among date time and consultants conveniently. 
 
 There are 2 background versions, black and white background.
+
+
+![sales-kpi-1](https://user-images.githubusercontent.com/52117939/230035473-5c6721a2-0c14-43fe-8c5d-644424dbffe3.png)
+
+![sales-kpi-2](https://user-images.githubusercontent.com/52117939/230035499-6329ed33-c754-4dda-90fd-564ea588a1e3.png)
